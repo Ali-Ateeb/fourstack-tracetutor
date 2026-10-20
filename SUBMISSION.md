@@ -18,14 +18,18 @@ AI assistance: Codex produced planning, implementation, synthetic examples, test
 
 ## Required deliverables
 
-- Working source and README: implemented locally; public URL recorded separately once publishing succeeds.
-- Public GitHub repository: pending verified publication.
-- Working demo: local HTTP preview; public demo pending verified deployment.
+- Working source and README: published at https://github.com/Ali-Ateeb/fourstack-tracetutor .
+- Public GitHub repository: publication confirmed October 20, 2026.
+- Working demo: https://ali-ateeb.github.io/fourstack-tracetutor/ ; public browser inference verified October 20.
 - Public YouTube/Vimeo demo video <=3 minutes with embedding enabled: pending; a script or screenshots are not a video.
-- At least two screenshots: capture from the actual tested app, pending.
+- Screenshots captured from the actual tested app: `screenshots/01-python-explanation.png`, `screenshots/02-javascript-explanation.png`, `screenshots/03-unknown-error.png`.
 - Built with: JavaScript, HTML, CSS, multinomial Naive Bayes, Codex.
 - Other three members: each needs their own platform account/registration and team-project joining as applicable.
 - Final Devpost project submission: NOT SUBMITTED. Only record a submission after an actual platform receipt.
+
+## Verification recorded October 20
+
+Ten model tests passed. Browser checks covered empty-input validation, Python diagnosis, practice answer reveal, JavaScript diagnosis and unknown-error abstention. The published GitHub Pages version was checked with a type-mismatch example. These are narrow prototype checks, not a general accuracy study.
 
 ## Suggested 90-second video walkthrough
 

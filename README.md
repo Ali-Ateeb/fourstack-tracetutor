@@ -2,6 +2,8 @@
 
 A small student error explainer for GLITCHATHON's **Glitch Detective** track. Classify one Python/JavaScript error line, see the words the model recognized, learn the likely cause, then try a practice question.
 
+[Open the working demo](https://ali-ateeb.github.io/fourstack-tracetutor/). This is a prototype, not a submitted hackathon entry.
+
 ## Run
 
 No installation, API key, account or paid service is required. Serve this directory with Python 3:
