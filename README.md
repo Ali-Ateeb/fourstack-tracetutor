@@ -6,6 +6,8 @@ A small student error explainer for GLITCHATHON's **Glitch Detective** track. Fo
 
 [Watch the narrated walkthrough](https://ali-ateeb.github.io/fourstack-tracetutor/demo.html) or download [the MP4](media/demo.mp4). This uses actual browser captures with synthetic narration; it is an edited walkthrough, not a continuous recording.
 
+[Example worksheet](examples/division-worksheet.md) is an actual browser download from the synthetic division-by-zero example.
+
 ## Run
 
 No installation, API key, account or paid service is required. Serve this directory with Python 3:

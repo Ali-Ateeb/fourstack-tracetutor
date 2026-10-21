@@ -27,6 +27,8 @@ AI assistance: Codex produced planning, implementation, synthetic examples, test
 - Built with: JavaScript, HTML, CSS, multinomial Naive Bayes, Codex.
 - Ali Ateeb and Ali Zulfikar are registered; Anas and Obaidullah still need their own registrations. All four must be added to the project as applicable. A registration receipt is not project membership.
 - Final Devpost project submission: NOT SUBMITTED. Only record a submission after an actual platform receipt.
+- Devpost draft creation was attempted October 21 under Ali Ateeb's account after confirming no existing project. Create project opened a CAPTCHA; no project draft was created. The browser page is left for the user to complete it.
+- YouTube was checked October 21 and shows Sign in. No upload is claimed.
 
 ## Verification recorded October 21
 
