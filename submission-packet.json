@@ -1,0 +1,36 @@
+{
+  "title": "TraceTutor",
+  "tagline": "Turn Python and JavaScript errors into lessons that stick.",
+  "team_name": "FourStack",
+  "primary_track": "Glitch Detective",
+  "event_url": "https://glitchathon.devpost.com/",
+  "submission_workspace_url": "https://devpost.com/submit-to/31777-glitchathon/manage/submissions",
+  "source_url": "https://github.com/Ali-Ateeb/fourstack-tracetutor",
+  "working_demo_url": "https://ali-ateeb.github.io/fourstack-tracetutor/",
+  "story_file": "DEVPOST-STORY.md",
+  "built_with": [
+    "JavaScript",
+    "HTML5",
+    "CSS3"
+  ],
+  "screenshots": [
+    "screenshots/04-traceback-practice.png",
+    "screenshots/05-javascript-trace.png",
+    "screenshots/06-unsupported-error.png"
+  ],
+  "video": {
+    "local_file": "media/demo.mp4",
+    "duration_seconds": 81.44,
+    "maximum_seconds": 180,
+    "review_player_url": "https://ali-ateeb.github.io/fourstack-tracetutor/demo.html",
+    "required_youtube_or_vimeo_url": null,
+    "description": "Edited actual browser captures, synthetic narration, fabricated examples; not a continuous screen recording."
+  },
+  "platform_draft_url": "https://devpost.com/submit-to/31777-glitchathon/manage/submissions/1251591-tracetutor/finalization",
+  "final_submission_receipt": null,
+  "team_membership_complete": false,
+  "member_contributions_confirmed": false,
+  "public_project_url": "https://devpost.com/software/tracetutor-4nrblk",
+  "project_members_joined": 2,
+  "deployment_verified_at": "2026-10-21T14:57:02.055103+00:00"
+}

@@ -1,0 +1,8 @@
+TraceTutor — FourStack | Glitch Detective demo
+
+Working app: https://ali-ateeb.github.io/fourstack-tracetutor/
+Source and run instructions: https://github.com/Ali-Ateeb/fourstack-tracetutor
+
+Turn Python and JavaScript errors into lessons that stick.
+
+This demo uses actual browser captures with synthetic narration and fabricated examples. It is an edited walkthrough, not a continuous screen recording. Codex assisted with planning, implementation, tests, documentation and demo preparation. Model limitations and attribution are documented in the repository.
