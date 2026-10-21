@@ -1,3 +1,7 @@
 __pycache__/
 *.pyc
 .DS_Store
+media/*.wav
+media/*.tmp
+media/segments/
+media/frames/

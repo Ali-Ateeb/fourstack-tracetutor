@@ -1,0 +1,49 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.454
+TraceTutor turns a programming error into a learning exercise. This edited walkthrough uses
+
+00:00:04.454 --> 00:00:08.908
+real browser captures and synthetic narration. The examples are fabricated. No pasted code is
+
+00:00:08.908 --> 00:00:13.362
+uploaded or executed.
+
+00:00:14.362 --> 00:00:19.161
+Here a full Python traceback ends in division by zero. The parser focuses the final exception
+
+00:00:19.161 --> 00:00:23.959
+and reports student app, line eighteen. A small Naive Bayes model suggests the error family,
+
+00:00:23.959 --> 00:00:28.758
+then curated steps explain what to investigate.
+
+00:00:29.758 --> 00:00:34.732
+The learner answers a short question. Handling an undefined average explicitly receives correct
+
+00:00:34.732 --> 00:00:39.706
+feedback. Replacing the denominator with one would change the meaning. The downloadable
+
+00:00:39.706 --> 00:00:44.680
+worksheet contains the lesson, without pasted text or private source paths.
+
+00:00:45.680 --> 00:00:50.812
+JavaScript stack traces work too. This example focuses an undefined property access at app dot
+
+00:00:50.812 --> 00:00:55.944
+J S, line forty two. The model uses forty synthetic examples across ten families. Its scores
+
+00:00:55.944 --> 00:01:01.076
+are not calibrated probabilities of correctness.
+
+00:01:02.076 --> 00:01:06.651
+An unsupported connection error gets an explicit not sure, instead of a guessed diagnosis.
+
+00:01:06.651 --> 00:01:11.226
+Twenty one narrow tests and real browser checks cover the prototype. Codex assisted with code,
+
+00:01:11.226 --> 00:01:15.801
+examples, tests and documentation. Team members should review and understand the implementation
+
+00:01:15.801 --> 00:01:20.376
+before presenting it.

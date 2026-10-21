@@ -1,0 +1,9 @@
+TraceTutor turns a programming error into a learning exercise. This edited walkthrough uses real browser captures and synthetic narration. The examples are fabricated. No pasted code is uploaded or executed.
+
+Here a full Python traceback ends in division by zero. The parser focuses the final exception and reports student app, line eighteen. A small Naive Bayes model suggests the error family, then curated steps explain what to investigate.
+
+The learner answers a short question. Handling an undefined average explicitly receives correct feedback. Replacing the denominator with one would change the meaning. The downloadable worksheet contains the lesson, without pasted text or private source paths.
+
+JavaScript stack traces work too. This example focuses an undefined property access at app dot J S, line forty two. The model uses forty synthetic examples across ten families. Its scores are not calibrated probabilities of correctness.
+
+An unsupported connection error gets an explicit not sure, instead of a guessed diagnosis. Twenty one narrow tests and real browser checks cover the prototype. Codex assisted with code, examples, tests and documentation. Team members should review and understand the implementation before presenting it.
