@@ -1,4 +1,4 @@
-# Submission preparation — not a submitted entry
+# TraceTutor — submitted to GLITCHATHON
 
 Event: https://glitchathon.devpost.com/
 Rules: https://glitchathon.devpost.com/rules
@@ -22,13 +22,11 @@ AI assistance: Codex produced planning, implementation, synthetic examples, test
 - Public GitHub repository: publication confirmed October 20, 2026.
 - Working demo: https://ali-ateeb.github.io/fourstack-tracetutor/ ; the upgraded ten-family version was verified live October 21. Public trace focus, JavaScript context, checked practice, worksheet download and unknown-error abstention work.
 - A real narrated MP4 is complete: `media/demo.mp4`, 81.44 seconds, 1280×720, H.264/AAC. It is an edited walkthrough of actual browser captures with synthetic narration. Captions and transcript are included. Review player: `demo.html`.
-- YouTube demo: https://youtu.be/i3-WKRW6HZ0 . Published Unlisted with embedding enabled; URL saved and read back in the existing Devpost draft. The draft shows 4/5 steps done. Final submission is still pending.
+- YouTube demo: https://youtu.be/i3-WKRW6HZ0 . Published Unlisted with embedding enabled; URL saved and read back in the existing Devpost draft. The final submission was confirmed October 22, 2026.
 - Current screenshots from the tested app: `screenshots/04-traceback-practice.png`, `screenshots/05-javascript-trace.png`, `screenshots/06-unsupported-error.png`. Earlier screenshots remain as historical version captures.
 - Built with: JavaScript, HTML, CSS, multinomial Naive Bayes, Codex.
 - Ali Ateeb and Ali Zulfikar are registered and have joined this project. Anas and Obaidullah still need their own authenticated registrations and project joining. A registration receipt is not project membership.
-- Final Devpost project submission: NOT SUBMITTED. Only record a submission after an actual platform receipt.
-- The user completed the project-creation CAPTCHA October 21. A real draft now exists under Ali Ateeb: https://devpost.com/submit-to/31777-glitchathon/manage/submissions/1251591-tracetutor/finalization . Saved fields include title, pitch, story, JavaScript/HTML5/CSS3 tags, app/source links, three screenshots and a thumbnail. The final agreement remains unchecked.
-- Project preview: https://devpost.com/software/tracetutor-4nrblk . Preview/publication of a project page is not a hackathon submission receipt.
+- Project preview: https://devpost.com/software/tracetutor-4nrblk . Final submission is separately confirmed by the Devpost success message.
 - `DEVPOST-STORY.md`, `submission-packet.json` and `media/upload-description.txt` contain the current form/upload material; the hosted video URL is saved.
 
 ## Verification recorded October 21
@@ -43,3 +41,13 @@ Twenty-one tests passed. Browser checks covered full Python traceback focus, sou
 4. Show a JavaScript stack trace with source context.
 5. Show explicit abstention on an unsupported exception.
 6. Explain synthetic training data, local processing, AI assistance and limits.
+
+## Confirmed submission — October 22, 2026
+
+Devpost displayed: “Project submitted! Continue to edit your project until the hackathon deadline: October 25, 2026 at 07:30am EDT.”
+
+- Submitted entry: https://devpost.com/software/tracetutor-4nrblk
+- Edit deadline: October 25, 16:30 PKT.
+- Current joined team: Ali Ateeb and Ali Zulfikar. Anas and Obaidullah still require their own authenticated registration and project joining before the deadline.
+- Final agreements accepted only after the user confirmed this exact action.
+- Platform submission does not guarantee organizer eligibility or a prize.

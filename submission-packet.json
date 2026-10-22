@@ -30,10 +30,28 @@
     "devpost_link_saved": true
   },
   "platform_draft_url": "https://devpost.com/submit-to/31777-glitchathon/manage/submissions/1251591-tracetutor/finalization",
-  "final_submission_receipt": null,
+  "final_submission_receipt": {
+    "project": "TraceTutor",
+    "status": "submitted",
+    "account": "ali-ateeb322",
+    "confirmation": "Project submitted! Continue to edit your project until the hackathon deadline: October 25, 2026 at 07:30am EDT.",
+    "confirmation_url": "https://devpost.com/software/tracetutor-4nrblk",
+    "verified_at": "2026-10-22T15:02:37.288096+00:00",
+    "project_members": [
+      "member-4",
+      "member-3"
+    ],
+    "pending_members": [
+      "member-1",
+      "member-2"
+    ],
+    "screenshot": "tracetutor-project-submitted.png",
+    "agreement_confirmation": "User explicitly confirmed accepting both agreements and submitting the current two-member entries at the final step."
+  },
   "team_membership_complete": false,
   "member_contributions_confirmed": false,
   "public_project_url": "https://devpost.com/software/tracetutor-4nrblk",
   "project_members_joined": 2,
-  "deployment_verified_at": "2026-10-21T14:57:02.055103+00:00"
+  "deployment_verified_at": "2026-10-21T14:57:02.055103+00:00",
+  "project_submitted": true
 }
