@@ -22,15 +22,14 @@ AI assistance: Codex produced planning, implementation, synthetic examples, test
 - Public GitHub repository: publication confirmed October 20, 2026.
 - Working demo: https://ali-ateeb.github.io/fourstack-tracetutor/ ; the upgraded ten-family version was verified live October 21. Public trace focus, JavaScript context, checked practice, worksheet download and unknown-error abstention work.
 - A real narrated MP4 is complete: `media/demo.mp4`, 81.44 seconds, 1280×720, H.264/AAC. It is an edited walkthrough of actual browser captures with synthetic narration. Captions and transcript are included. Review player: `demo.html`.
-- Required public YouTube/Vimeo link <=3 minutes with embedding enabled: still pending. A GitHub-hosted MP4 does not replace this requirement.
+- YouTube demo: https://youtu.be/i3-WKRW6HZ0 . Published Unlisted with embedding enabled; URL saved and read back in the existing Devpost draft. The draft shows 4/5 steps done. Final submission is still pending.
 - Current screenshots from the tested app: `screenshots/04-traceback-practice.png`, `screenshots/05-javascript-trace.png`, `screenshots/06-unsupported-error.png`. Earlier screenshots remain as historical version captures.
 - Built with: JavaScript, HTML, CSS, multinomial Naive Bayes, Codex.
 - Ali Ateeb and Ali Zulfikar are registered and have joined this project. Anas and Obaidullah still need their own authenticated registrations and project joining. A registration receipt is not project membership.
 - Final Devpost project submission: NOT SUBMITTED. Only record a submission after an actual platform receipt.
 - The user completed the project-creation CAPTCHA October 21. A real draft now exists under Ali Ateeb: https://devpost.com/submit-to/31777-glitchathon/manage/submissions/1251591-tracetutor/finalization . Saved fields include title, pitch, story, JavaScript/HTML5/CSS3 tags, app/source links, three screenshots and a thumbnail. The final agreement remains unchecked.
 - Project preview: https://devpost.com/software/tracetutor-4nrblk . Preview/publication of a project page is not a hackathon submission receipt.
-- The connected Chrome profile still showed YouTube Sign in after the user signed in using a different profile. Upload is pending a matching authenticated YouTube session. No upload is claimed.
-- `DEVPOST-STORY.md`, `submission-packet.json` and `media/upload-description.txt` contain the prepared form/upload material. The required hosted-video field remains blank.
+- `DEVPOST-STORY.md`, `submission-packet.json` and `media/upload-description.txt` contain the current form/upload material; the hosted video URL is saved.
 
 ## Verification recorded October 21
 

@@ -23,8 +23,11 @@
     "duration_seconds": 81.44,
     "maximum_seconds": 180,
     "review_player_url": "https://ali-ateeb.github.io/fourstack-tracetutor/demo.html",
-    "required_youtube_or_vimeo_url": null,
-    "description": "Edited actual browser captures, synthetic narration, fabricated examples; not a continuous screen recording."
+    "required_youtube_or_vimeo_url": "https://youtu.be/i3-WKRW6HZ0",
+    "description": "Edited actual browser captures, synthetic narration, fabricated examples; not a continuous screen recording.",
+    "visibility": "unlisted",
+    "embedding_allowed": true,
+    "devpost_link_saved": true
   },
   "platform_draft_url": "https://devpost.com/submit-to/31777-glitchathon/manage/submissions/1251591-tracetutor/finalization",
   "final_submission_receipt": null,
